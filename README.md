@@ -26,6 +26,4 @@ Praticar o desenvolvimento de interfaces utilizando Angular, com ênfase em orga
 
 O design da interface foi fornecido por um layout no Figma e não é de autoria própria.
 
-## Créditos
-
-Projeto desenvolvido com base em curso da Alura.
+https://cursos.alura.com.br/certificate/4e2f7f75-bfe4-4290-bdaa-ea455616855d?lang=pt_BR
